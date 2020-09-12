@@ -1,0 +1,12 @@
+.cards-area h2{
+  text-align: center;
+}
+.how-it-works {
+  width: 850px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.cards-area {
+  margin-bottom: 35px;
+}
